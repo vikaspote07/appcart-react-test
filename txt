@@ -1,0 +1,5 @@
+//used react+vite 
+//development server start using    "npm run dev"
+
+//file includinging ev 
+//test file 
