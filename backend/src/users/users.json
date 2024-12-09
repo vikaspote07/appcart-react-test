@@ -1,0 +1,558 @@
+[
+  {
+    "firstName": "John",
+    "lastName": "Doe",
+    "email": "john.doe@example.com",
+    "contact": "1234567890",
+    "password": "password123",
+    "gender": "Male",
+    "hobby": [
+      "Reading",
+      "Swimming"
+    ],
+    "address": {
+      "country": "CountryName",
+      "state": "StateName",
+      "city": "CityName",
+      "address1": "Street 1",
+      "address2": "Street 2",
+      "zipcode": "12345"
+    },
+    "education": [
+      {
+        "type": "10th",
+        "year": "2010",
+        "school": "XYZ School",
+        "percentage": "80%"
+      }
+    ]
+  },
+  [
+    {
+      "firstName": "John",
+      "lastName": "Doe",
+      "email": "john.doe@example.com",
+      "contact": "1234567890",
+      "password": "password123",
+      "gender": "Male",
+      "hobby": [
+        "Reading",
+        "Swimming"
+      ],
+      "address": {
+        "country": "CountryName",
+        "state": "StateName",
+        "city": "CityName",
+        "address1": "Street 1",
+        "address2": "Street 2",
+        "zipcode": "12345"
+      },
+      "education": [
+        {
+          "type": "10th",
+          "year": "2010",
+          "school": "XYZ School",
+          "percentage": "80%"
+        }
+      ]
+    }
+  ],
+  {
+    "firstName": "vikas",
+    "lastName": "pote",
+    "email": "vikaspote@gmail.com",
+    "contactNo": "9096330899",
+    "password": "1234",
+    "confirmPassword": "1234",
+    "gender": "male",
+    "country": "",
+    "state": "",
+    "city": "",
+    "address1": "flat 001 wing A vishnu park socity 152/2B kalbhore nagar chinchwad 411019",
+    "address2": "",
+    "zipcode": "411019",
+    "education": [
+      {
+        "type": "12th",
+        "passingYear": "56",
+        "schoolCollege": "sdf",
+        "percentage": "56"
+      }
+    ]
+  },
+  {
+    "firstName": "vikas",
+    "lastName": "pote",
+    "email": "pote@gmail",
+    "contactNo": "9096330899",
+    "password": "1234",
+    "confirmPassword": "1234",
+    "gender": "male",
+    "country": "India",
+    "state": "Gujarat",
+    "city": "Surat",
+    "address1": "sdfsd",
+    "address2": "",
+    "zipcode": "411019",
+    "education": [
+      {
+        "type": "12th",
+        "passingYear": "2013",
+        "schoolCollege": "syf",
+        "percentage": "56"
+      }
+    ]
+  },
+  {
+    "firstName": "vikas",
+    "lastName": "pote",
+    "email": "asd@gmail.com",
+    "contactNo": "9096330899",
+    "password": "Vikas@123",
+    "confirmPassword": "Vikas@123",
+    "gender": "male",
+    "hobbies": [
+      "Sports",
+      "Gaming"
+    ],
+    "country": "USA",
+    "state": "California",
+    "city": "Los Angeles",
+    "address1": "flat 001 wing A vishnu park socity 152/2B kalbhore nagar chinchwad 411019",
+    "address2": "dsf",
+    "nearbyLocation": "",
+    "zipcode": "411019",
+    "education": [
+      {
+        "type": "10th",
+        "passingYear": "",
+        "schoolCollege": "",
+        "percentage": ""
+      }
+    ]
+  },
+  {
+    "firstName": "vikas",
+    "lastName": "pote",
+    "email": "pote@gmail.com",
+    "contactNo": "9096330899",
+    "password": "Vikas@1234",
+    "confirmPassword": "Vikas@1234",
+    "gender": "male",
+    "hobbies": [
+      "Cooking"
+    ],
+    "country": "Canada",
+    "state": "Ontario",
+    "city": "Ottawa",
+    "address1": "flat 001 wing A vishnu park socity 152/2B kalbhore nagar chinchwad 411019",
+    "address2": "df",
+    "nearbyLocation": "",
+    "zipcode": "411019",
+    "education": [
+      {
+        "type": "10th",
+        "passingYear": "",
+        "schoolCollege": "",
+        "percentage": ""
+      }
+    ]
+  },
+  {
+    "firstName": "vikas",
+    "lastName": "pote",
+    "email": "vikaspote07@gmail.com",
+    "contactNo": "9096330899",
+    "password": "Vikas@1234",
+    "confirmPassword": "Vikas@1234",
+    "gender": "male",
+    "hobbies": [
+      "Music",
+      "Gaming"
+    ],
+    "country": "Canada",
+    "state": "Ontario",
+    "city": "Toronto",
+    "address1": "flat 001 wing A vishnu park socity 152/2B kalbhore nagar chinchwad 411019",
+    "address2": "df",
+    "nearbyLocation": "",
+    "zipcode": "411019",
+    "education": [
+      {
+        "type": "10th",
+        "passingYear": "",
+        "schoolCollege": "",
+        "percentage": ""
+      }
+    ]
+  },
+  {
+    "firstName": "vikas",
+    "lastName": "pote",
+    "email": "vikas@gmail.in",
+    "contactNo": "96446549549498798",
+    "password": "Vikas@123",
+    "confirmPassword": "Vikas@123",
+    "gender": "male",
+    "hobbies": [
+      "Sports",
+      "Writing"
+    ],
+    "country": "Canada",
+    "state": "Ontario",
+    "city": "Toronto",
+    "address1": "flat 001 wing A vishnu park socity 152/2B kalbhore nagar chinchwad 411019",
+    "address2": "df",
+    "nearbyLocation": "",
+    "zipcode": "411019",
+    "education": [
+      {
+        "type": "10th",
+        "passingYear": "",
+        "schoolCollege": "",
+        "percentage": ""
+      }
+    ]
+  },
+  {
+    "firstName": "",
+    "lastName": "",
+    "email": "",
+    "contactNo": "",
+    "password": "",
+    "confirmPassword": "",
+    "gender": "male",
+    "hobbies": [],
+    "country": "",
+    "state": "",
+    "city": "",
+    "address1": "",
+    "address2": "",
+    "nearbyLocation": "",
+    "zipcode": "",
+    "education": [
+      {
+        "type": "10th",
+        "passingYear": "",
+        "schoolCollege": "",
+        "percentage": ""
+      }
+    ]
+  },
+  {
+    "firstName": "vikas",
+    "lastName": "pote",
+    "email": "pote111@gmail",
+    "contactNo": "9096330899",
+    "password": "Vikas@123",
+    "confirmPassword": "Vikas@123",
+    "gender": "male",
+    "hobbies": [
+      "Writing"
+    ],
+    "country": "",
+    "state": "",
+    "city": "",
+    "address1": "flat 001 wing A vishnu park socity 152/2B kalbhore nagar chinchwad 411019",
+    "address2": "df",
+    "nearbyLocation": "",
+    "zipcode": "411019",
+    "education": [
+      {
+        "type": "10th",
+        "passingYear": "2022",
+        "schoolCollege": "kl",
+        "percentage": "94"
+      }
+    ]
+  },
+  {
+    "firstName": "vikas",
+    "lastName": "pote",
+    "email": "pote12@gmail",
+    "contactNo": "9096330899",
+    "password": "Vikas@123",
+    "confirmPassword": "Vikas@123",
+    "gender": "female",
+    "hobbies": [
+      "Writing"
+    ],
+    "country": "Canada",
+    "state": "Ontario",
+    "city": "Ottawa",
+    "address1": "flat 001 wing A vishnu park socity 152/2B kalbhore nagar chinchwad 411019",
+    "address2": "df",
+    "nearbyLocation": "",
+    "zipcode": "411019",
+    "education": [
+      {
+        "type": "12th",
+        "passingYear": "2021",
+        "schoolCollege": "kl",
+        "percentage": "45"
+      }
+    ]
+  },
+  {
+    "firstName": "vikas",
+    "lastName": "pote",
+    "email": "name@gmail.com",
+    "contactNo": "9096330899",
+    "password": "Vikas@123",
+    "confirmPassword": "Vikas@123",
+    "gender": "male",
+    "hobbies": [],
+    "country": "",
+    "state": "",
+    "city": "",
+    "address1": "",
+    "address2": "",
+    "nearbyLocation": "",
+    "zipcode": "",
+    "education": [
+      {
+        "type": "10th",
+        "passingYear": "2014",
+        "schoolCollege": "sdf",
+        "percentage": "45"
+      }
+    ]
+  },
+  {
+    "firstName": "vikas",
+    "lastName": "pote",
+    "email": "vikaspote071@gmail.com",
+    "contactNo": "9096330899",
+    "password": "Vikas@123",
+    "confirmPassword": "Vikas@123",
+    "gender": "male",
+    "hobbies": [],
+    "country": "",
+    "state": "Maharashtra",
+    "city": "Chinchwad",
+    "address1": "flat 001 wing A vishnu park socity 152/2B kalbhore nagar chinchwad 411019",
+    "address2": "asd",
+    "nearbyLocation": "",
+    "zipcode": "41101",
+    "education": [
+      {
+        "type": "10th",
+        "passingYear": "2013",
+        "schoolCollege": "kl",
+        "percentage": "30"
+      },
+      {
+        "type": "12th",
+        "passingYear": "2012",
+        "schoolCollege": "dfg",
+        "percentage": "96"
+      }
+    ]
+  },
+  {
+    "firstName": "vikas",
+    "lastName": "pote",
+    "email": "Vika@gmail.com",
+    "contactNo": "9096330899",
+    "password": "Vikas@123",
+    "confirmPassword": "Vikas@123",
+    "gender": "male",
+    "hobbies": [],
+    "country": "",
+    "state": "Maharashtra",
+    "city": "Chinchwad",
+    "address1": "flat 001 wing A vishnu park socity 152/2B kalbhore nagar chinchwad 411019",
+    "address2": "sdf",
+    "nearbyLocation": "",
+    "zipcode": "411019",
+    "education": [
+      {
+        "type": "10th",
+        "passingYear": "2012",
+        "schoolCollege": "kl",
+        "percentage": "99"
+      }
+    ]
+  },
+  {
+    "firstName": "vikas",
+    "lastName": "pote",
+    "email": "vikaspote0@gmail.com",
+    "contactNo": "9096330899",
+    "password": "Vikas@123",
+    "confirmPassword": "Vikas@123",
+    "gender": "male",
+    "hobbies": [],
+    "country": "",
+    "state": "Maharashtra",
+    "city": "Chinchwad",
+    "address1": "flat 001 wing A vishnu park socity 152/2B kalbhore nagar chinchwad 411019",
+    "address2": "zxcvzxv",
+    "nearbyLocation": "",
+    "zipcode": "41101",
+    "education": [
+      {
+        "type": "10th",
+        "passingYear": "2014",
+        "schoolCollege": "kl",
+        "percentage": "96"
+      },
+      {
+        "type": "12th",
+        "passingYear": "2014",
+        "schoolCollege": "Dy patil Akurdi",
+        "percentage": "96"
+      }
+    ]
+  },
+  {
+    "firstName": "vikas",
+    "lastName": "pote",
+    "email": "vikaspoteasdas@gmail.com",
+    "contactNo": "9096330899",
+    "password": "Vikas@123",
+    "confirmPassword": "Vikas@123",
+    "gender": "male",
+    "hobbies": [],
+    "country": "",
+    "state": "Maharashtra",
+    "city": "Chinchwad",
+    "address1": "flat 001 wing A vishnu park socity 152/2B kalbhore nagar chinchwad 411019",
+    "address2": "asdfsaf",
+    "nearbyLocation": "",
+    "zipcode": "411019",
+    "education": [
+      {
+        "type": "10th",
+        "passingYear": "2014",
+        "schoolCollege": "gfh",
+        "percentage": "66"
+      }
+    ]
+  },
+  {
+    "firstName": "vikas",
+    "lastName": "pote",
+    "email": "vikaspote07sdf@gmail.com",
+    "contactNo": "9096330899",
+    "password": "Vikas@123",
+    "confirmPassword": "Vikas@123",
+    "gender": "male",
+    "hobbies": [],
+    "country": "",
+    "state": "Maharashtra",
+    "city": "Chinchwad",
+    "address1": "flat 001 wing A vishnu park socity 152/2B kalbhore nagar chinchwad 411019",
+    "address2": "VIkas",
+    "nearbyLocation": "",
+    "zipcode": "411019",
+    "education": [
+      {
+        "type": "10th",
+        "passingYear": "2013",
+        "schoolCollege": "kl",
+        "percentage": "65"
+      }
+    ]
+  },
+  {
+    "firstName": "vikas",
+    "lastName": "pote",
+    "email": "vikaspote07zxc@gmail.com",
+    "contactNo": "9096330899",
+    "password": "vikas123",
+    "confirmPassword": "vikas123",
+    "gender": "male",
+    "hobbies": [],
+    "country": "",
+    "state": "Maharashtra",
+    "city": "Chinchwad",
+    "address1": "flat 001 wing A vishnu park socity 152/2B kalbhore nagar chinchwad 411019",
+    "address2": "sdfsd",
+    "nearbyLocation": "",
+    "zipcode": "411019",
+    "education": [
+      {
+        "type": "10th",
+        "passingYear": "2014",
+        "schoolCollege": "gfh",
+        "percentage": "63"
+      }
+    ]
+  },
+  {
+    "firstName": "vikas",
+    "lastName": "pote",
+    "email": "vikaspote12323@gmail.com",
+    "contactNo": "9096330899",
+    "password": "vikas123",
+    "confirmPassword": "vikas123",
+    "gender": "male",
+    "hobbies": [],
+    "country": "",
+    "state": "Maharashtra",
+    "city": "Chinchwad",
+    "address1": "flat 001 wing A vishnu park socity 152/2B kalbhore nagar chinchwad 411019",
+    "address2": "sdfsd",
+    "nearbyLocation": "",
+    "zipcode": "411019",
+    "education": [
+      {
+        "type": "10th",
+        "passingYear": "2014",
+        "schoolCollege": "gfh",
+        "percentage": "63"
+      }
+    ]
+  },
+  {
+    "firstName": "vikas",
+    "lastName": "pote",
+    "email": "vikaspote1232433@gmail.com",
+    "contactNo": "9096330899",
+    "password": "vikas123",
+    "confirmPassword": "vikas123",
+    "gender": "male",
+    "hobbies": [],
+    "country": "",
+    "state": "Maharashtra",
+    "city": "Chinchwad",
+    "address1": "flat 001 wing A vishnu park socity 152/2B kalbhore nagar chinchwad 411019",
+    "address2": "sdfsd",
+    "nearbyLocation": "",
+    "zipcode": "411019",
+    "education": [
+      {
+        "type": "10th",
+        "passingYear": "2014",
+        "schoolCollege": "gfh",
+        "percentage": "63"
+      }
+    ]
+  },
+  {
+    "firstName": "vikas",
+    "lastName": "pote",
+    "email": "vikaspote3424@gmail.com",
+    "contactNo": "9096330899",
+    "password": "Vikas@123",
+    "confirmPassword": "Vikas@123",
+    "gender": "male",
+    "hobbies": [],
+    "country": "",
+    "state": "Maharashtra",
+    "city": "Chinchwad",
+    "address1": "flat 001 wing A vishnu park socity 152/2B kalbhore nagar chinchwad 411019",
+    "address2": "sdfsdf",
+    "nearbyLocation": "",
+    "zipcode": "411019",
+    "education": [
+      {
+        "type": "Graduation",
+        "passingYear": "2014",
+        "schoolCollege": "jj",
+        "percentage": "77.98"
+      }
+    ]
+  }
+]
