@@ -17,7 +17,7 @@
   -moz-osx-font-smoothing: grayscale;
 }
 body {
-  background: linear-gradient(to right, #6a11cb, #2575fc);
+/*   background: linear-gradient(to right, #6a11cb, #2575fc); */
   font-family: Arial, sans-serif;
   height: 100vh;
   margin: 0;
