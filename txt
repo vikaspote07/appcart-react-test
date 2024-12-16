@@ -1,5 +1,7 @@
-//used react+vite 
-//development server start using    "npm run dev"
-//backend main file  server.js
-//file includinging ev 
-//test file 
+used react+vite for development
+for style tailwindcss
+icons bootstrap icons , react-icons
+start developent server using  "npm run dev"
+backend main file  server.js
+file includinging ev 
+test file 
