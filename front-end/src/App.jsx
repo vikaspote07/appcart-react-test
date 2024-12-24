@@ -13,7 +13,7 @@ function App() {
     <UserProvider>
       <BrowserRouter>
         <Routes>
-          {/* Redirect to /register when hitting the root path */}
+          {/* redirecting to the routing path */}
 
           <Route path="/login" element={<Login />} />
 
