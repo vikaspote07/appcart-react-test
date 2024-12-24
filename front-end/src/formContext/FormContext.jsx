@@ -2,6 +2,7 @@ import React, { createContext, useContext, useState } from "react";
 import { useForm } from "react-hook-form";
 import { INITIAL_USER_DATA, isStepValid } from "../validation/validationRules";
 
+//user context 
 const FormContext = createContext();
 
 export const FormProvider = ({ children }) => {
